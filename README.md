@@ -8,5 +8,7 @@ Very simple plugin, you install and click on a link in the menu. Do it just once
 Use at your own risk! Always back up your database first.
 
 Moe Loubani
+
 http://www.moeloubani.com
+
 moe@loubani.com
